@@ -1,0 +1,8 @@
+.body2{
+    background :url('../../assets/backgrounds.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+}
+.Circle{
+    border-radius: 60%
+}
